@@ -1,3 +1,14 @@
+---
+title: OpenInterp
+emoji: 🔬
+colorFrom: purple
+colorTo: pink
+sdk: static
+pinned: true
+license: mit
+short_description: Watch language models think. Open source interpretability.
+---
+
 # OpenInterp
 
 > Watch language models think. Open source interpretability for everyone.
