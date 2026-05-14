@@ -15,6 +15,8 @@ short_description: Watch language models think. Open source interpretability.
 
 **Live**: [openinterp.org](https://openinterp.org) (coming soon) · [HuggingFace Space](https://huggingface.co/spaces/caiovicentino1/openinterp)
 
+<a href="https://www.producthunt.com/products/openinterpretability?embed=true&utm_source=badge-featured&utm_medium=badge&utm_campaign=badge-openinterpretability" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1146555&theme=light&t=1778728126905" alt="OpenInterpretability - Open-source toolkit to audit what your LLM knows | Product Hunt" width="250" height="54" /></a>
+
 ---
 
 ## What this is
